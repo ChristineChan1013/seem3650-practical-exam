@@ -1,5 +1,6 @@
 # SEEM3650 Practical Exam Report
 
+**Student name:** ChenShului  
 **Student ID:** 1155213983  
 **Last three digits (XYZ):** 983  
 **XYZ mod 4:** 3, so Step 3 fixes heads at 4 and varies layers in {2, 3, 5, 7}.  

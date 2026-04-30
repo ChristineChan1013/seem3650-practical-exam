@@ -4,6 +4,7 @@ This repository is the GitHub-ready submission for the SEEM3650 Practical Exam.
 
 ## Student information
 
+- Student name: ChenShului
 - Student ID: 1155213983
 - Last three digits: 983
 - XYZ mod 4: 3
